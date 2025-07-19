@@ -1,4 +1,3 @@
 # my_project
-basic testing of account
-
+Basic testing of account.
 Author- jyothiraditya- Jyothiraditya
